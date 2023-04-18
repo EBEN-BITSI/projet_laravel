@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>DePaulwin! • Graphe de tranche d'age</title>
+        <!-- <title>DePaulwin! • Graphe de tranche d'age</title> -->
+        <title>graphe/age</title>
         <link rel="stylesheet" href={{ asset('css/bootstrap.css') }}>
         <link rel="stylesheet" href={{ asset('css/bootstrap.min.css') }}>
         <link rel="stylesheet" href={{ asset('css/bg.css') }}>

@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>DePaulwin! • formations</title>
+        <!-- <title>DePaulwin! • formations</title> -->
+        <title>formations</title>
         <link rel="stylesheet" href={{ asset('css/bootstrap.css') }}>
         <link rel="stylesheet" href={{ asset('css/bootstrap.min.css') }}>
         <link rel="stylesheet" href={{ asset('css/bg.css') }}>

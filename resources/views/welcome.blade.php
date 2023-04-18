@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>DePaulwin! • types de formation</title>
+        <!-- <title>DePaulwin! • types de formation</title> -->
+        <title>types</title>
 
         <!-- Fonts -->
         <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -19,9 +20,9 @@
                 font-family: 'Nunito', sans-serif;
             }
         </style>
-        <link rel="stylesheet" href={{ asset('css/bootstrap.css') }}>
-        <link rel="stylesheet" href={{ asset('css/bootstrap.min.css') }}>
-        <link rel="stylesheet" href={{ asset('css/bg.css') }}>
+        <!-- <link rel="stylesheet" href='css/bootstrap.css'> -->
+        <link rel="stylesheet" href='css/bootstrap.min.css'>
+        <link rel="stylesheet" href='css/bg.css'>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     </head>
     <body class="antialiased">
@@ -154,7 +155,7 @@
         <div class="container card-footer text-muted bg-secondary ">
                 <div class="text-center text-white"> <h3> Informations </h3> </div>
                 <br><br>
-                <div class="row">
+                <div class="rows">
                 <div class="col-md-3"> <a class = "btn btn-warning lg" href="/Tranche_age">Graphe tranche d'age</a> </div>
                 <div class="col-md-3"> <a class = "btn btn-warning lg" href="/candidats_par_sexe">repartition par sexe</a> </div>
                 <div class="col-md-3"> <a class = "btn btn-warning lg" href="/Formation_Par_Referentiel">Formations par referentiel</a> </div>
